@@ -7,4 +7,4 @@ logging - `pip install logging`\
 requests - `pip install requests`\
 selenium - `pip install selenium`\
 bs4 - `pip install beautifulsoup4`\
-openai - `pip install openai`\
+openai - `pip install openai`
