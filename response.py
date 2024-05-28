@@ -1,2 +1,5 @@
 def get_response(user_input: str) -> str:
-    return 'Hi there!'
+    if (user_input == 'Hi'):
+        return 'Hello!'
+    else:
+        return 'bozo'
