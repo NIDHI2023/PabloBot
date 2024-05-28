@@ -16,11 +16,11 @@ async def send_response(message: Message, user_message: str) -> None:
     try:
         if user_message[0] == '?':
             user_message = user_message[1:]
-            response = get_response(user_message)
+            response = get_response(message, user_message)
             await message.author.send(response)
         elif user_message[0] == '!':
             user_message = user_message[1:]
-            response = get_response(user_message)
+            response = get_response(message, user_message)
             await message.channel.send(response)
         else:
             return
