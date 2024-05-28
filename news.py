@@ -7,9 +7,7 @@ def get_title() -> str:
     url = "https://www.cnn.com/world"
     ourURL = urllib3.PoolManager().request('GET', url).data
     soup = BeautifulSoup(ourURL, "html.parser")
-    #print(soup.title)
     lst = (soup.select('.layout--wide-left-balanced-2 .container__headline-text'))
-    print(lst)
     result_str = "World News - CNN\n"
     for i in range(len(lst)):
         result_str += (f"{i}. {lst[i].text} \n")
