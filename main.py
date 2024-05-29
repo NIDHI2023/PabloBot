@@ -1,9 +1,11 @@
-from discord import Intents, Client, Message
 import discord
+import logging
 import os
+
 from dotenv import load_dotenv
 from response import get_response, get_diff_news
-import logging
+from discord import Client, Intents, Message
+
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')
@@ -35,16 +37,26 @@ async def send_response(message: Message, user_message: str) -> None:
     try:
         if user_message[0] == '?':
             user_message = user_message[1:]
-            response = get_response(message, user_message)
+            response = await get_response(message, user_message)
             if user_message == "news":
                 await message.author.send(view = NewsButtons())
+            elif user_message == "weather":
+                await message.author.send(embed=response)
             else:
                 await message.author.send(response)
         elif user_message[0] == '!':
             user_message = user_message[1:]
-            response = get_response(message, user_message)
-            if user_message == "news":
+            response = await get_response(message, user_message)
+            
+            if user_message.startswith("nba"):
+                if type(response) == discord.Embed:
+                    await message.channel.send(embed=response)
+                else:
+                    await message.channel.send(response)
+            elif user_message == "news":
                 await message.channel.send(view = NewsButtons())
+            elif user_message.startswith("weather"):
+                await message.channel.send(embed=response)
             else:
                 await message.channel.send(response)
         else:
@@ -76,5 +88,3 @@ def main():
     
 if __name__ == '__main__':
     main()
-
-
