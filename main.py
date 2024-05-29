@@ -21,11 +21,15 @@ async def send_response(message: Message, user_message: str) -> None:
         @discord.ui.button(label="CNN", style=discord.ButtonStyle.blurple)
         async def cnnBtn(self, interaction: discord.Interaction, button: discord.ui.Button):
             await interaction.response.send_message(get_diff_news("cnn"))
+        
+        @discord.ui.button(label="NBC", style=discord.ButtonStyle.blurple)
+        async def nbcBtn(self, interaction: discord.Interaction, button: discord.ui.Button):
+            await interaction.response.send_message(get_diff_news("nbc"))
 
         @discord.ui.button(style=discord.ButtonStyle.blurple, 
         emoji="🔥")
         async def emojiBtn(self, interaction: discord.Interaction, button: discord.ui.Button):
-            await interaction.response.send_message(get_diff_news("sdfs"))
+            await interaction.response.send_message(get_diff_news(""))
 
 
     try:
