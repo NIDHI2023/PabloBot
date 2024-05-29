@@ -49,16 +49,6 @@ async def send_response(message: Message, user_message: str) -> None:
                 await message.channel.send(response)
         else:
             return
-        # if user_message[0] == '?':
-        #     user_message = user_message[1:]
-        #     response = get_response(message, user_message)
-        #     await message.author.send(response)
-        # elif user_message[0] == '!':
-        #     user_message = user_message[1:]
-        #     response = get_response(message, user_message)
-        #     await message.channel.send(response)
-        # else:
-        #     return
     except Exception as e:
         await message.channel.send(f"An error occured: {e}")
     
