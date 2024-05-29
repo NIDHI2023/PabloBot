@@ -3,7 +3,7 @@ import urllib3
 
 #TODO: make button options on bot for which news site you want to visit
 # credit: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
-def get_title() -> str:
+def get_cnn() -> str:
     url = "https://www.cnn.com/world"
     ourURL = urllib3.PoolManager().request('GET', url).data
     soup = BeautifulSoup(ourURL, "html.parser")
