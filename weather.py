@@ -1,7 +1,7 @@
 import aiohttp
 import os
 from dotenv import load_dotenv
-import nextcord
+import discord
 
 load_dotenv()
 
@@ -15,7 +15,7 @@ async def get_weather(message, location: str) -> str:
             'q': location
         }
         
-        async with aiohttp.ClientSession as session:
+        async with aiohttp.ClientSession() as session:
             async with session.get(url, params=params) as response:
                 data = await response.json()
                 location = data['location']['name']
@@ -28,7 +28,7 @@ async def get_weather(message, location: str) -> str:
                 precipitation = data['current']['precip_mm']
                 image_url ='http:' + data['current']['condition']['icon']
                 
-                embed = nextcord.Embed(title=f'Weather in {location}', description=f'The condition in `{location}` is `{condition}`', color=0x00ff00)
+                embed = discord.Embed(title=f'Weather in {location}', description=f'The condition in {location} is {condition}', color=0x00ff00)
                 embed.add_field(name='Temperature', value=f'{temp_c}°C | {temp_f}°F')
                 embed.add_field(name='Humidity', value=f'{humidity}%')
                 embed.add_field(name='Wind Speeds', value=f'{wind_kph} kph | {wind_mph} mph')

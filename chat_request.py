@@ -17,8 +17,6 @@ headers = {
 }
 
 def get_chat_response(user_message: str) -> str:
-    # Define the request
-    # Define the request payload
     payload = {
         "model": "mistralai/Mistral-7B-v0.1",
         "messages": [

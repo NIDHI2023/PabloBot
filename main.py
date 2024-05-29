@@ -4,7 +4,7 @@ import os
 
 from dotenv import load_dotenv
 from response import get_response, get_diff_news
-from discord import Intents, Client, Message
+from discord import Client, Intents, Message
 
 
 load_dotenv()
@@ -37,7 +37,7 @@ async def send_response(message: Message, user_message: str) -> None:
     try:
         if user_message[0] == '?':
             user_message = user_message[1:]
-            response = get_response(message, user_message)
+            response = await get_response(message, user_message)
             if user_message == "news":
                 await message.author.send(view = NewsButtons())
             elif user_message == "weather":
@@ -46,11 +46,17 @@ async def send_response(message: Message, user_message: str) -> None:
                 await message.author.send(response)
         elif user_message[0] == '!':
             user_message = user_message[1:]
-            response = get_response(message, user_message)
-            if user_message == "news":
+            response = await get_response(message, user_message)
+            
+            if user_message.startswith("nba"):
+                if type(response) == discord.Embed:
+                    await message.channel.send(embed=response)
+                else:
+                    await message.channel.send(response)
+            elif user_message == "news":
                 await message.channel.send(view = NewsButtons())
-            elif user_message == "weather":
-                await message.author.send(embed=response)
+            elif user_message.startswith("weather"):
+                await message.channel.send(embed=response)
             else:
                 await message.channel.send(response)
         else:
