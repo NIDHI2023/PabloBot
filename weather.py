@@ -7,7 +7,7 @@ load_dotenv()
 
 KEY = os.getenv('WEATHER-API')
 
-async def get_weather(location: str) -> str:
+async def get_weather(message, location: str) -> str:
     if location:
         url = 'http://api.weatherapi.com/v1/current.json'
         params = {
@@ -34,5 +34,7 @@ async def get_weather(location: str) -> str:
                 embed.add_field(name='Wind Speeds', value=f'{wind_kph} kph | {wind_mph} mph')
                 embed.add_field(name='Precipitation', value=f'{precipitation} mm')
                 embed.set_thumbnail(url=image_url) 
+                
+                return embed
     else:
         return 'Please provide a location'

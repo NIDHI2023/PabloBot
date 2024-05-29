@@ -1,31 +1,58 @@
-import os
+import discord
 import logging
-import nextcord
+import os
 
-from discord import Intents, Client, Message
 from dotenv import load_dotenv
-from response import get_response
-from nextcord.ext import commands
+from response import get_response, get_diff_news
+from discord import Intents, Client, Message
 
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')
 
-'''
+
 intents = Intents.default()
 intents.message_content = True
 client = Client(intents=intents)
 
 async def send_response(message: Message, user_message: str) -> None:
+    class NewsButtons(discord.ui.View):
+        def __init__(self):
+            super().__init__()
+        
+        @discord.ui.button(label="CNN", style=discord.ButtonStyle.blurple)
+        async def cnnBtn(self, interaction: discord.Interaction, button: discord.ui.Button):
+            await interaction.response.send_message(get_diff_news("cnn"))
+        
+        @discord.ui.button(label="NBC", style=discord.ButtonStyle.blurple)
+        async def nbcBtn(self, interaction: discord.Interaction, button: discord.ui.Button):
+            await interaction.response.send_message(get_diff_news("nbc"))
+
+        @discord.ui.button(style=discord.ButtonStyle.blurple, 
+        emoji="🔥")
+        async def emojiBtn(self, interaction: discord.Interaction, button: discord.ui.Button):
+            await interaction.response.send_message(get_diff_news(""))
+
+
     try:
         if user_message[0] == '?':
             user_message = user_message[1:]
             response = get_response(message, user_message)
-            await message.author.send(response)
+            if user_message == "news":
+                await message.author.send(view = NewsButtons())
+            elif user_message == "weather":
+                await message.author.send(embed=response)
+            else:
+                await message.author.send(response)
         elif user_message[0] == '!':
             user_message = user_message[1:]
             response = get_response(message, user_message)
-            await message.channel.send(response)
+            if user_message == "news":
+                await message.channel.send(view = NewsButtons())
+            elif user_message == "weather":
+                await message.author.send(embed=response)
+            else:
+                await message.channel.send(response)
         else:
             return
     except Exception as e:
@@ -49,38 +76,9 @@ async def on_message(message: Message) -> None:
     logging.info(f'Message from {username} in {channel}: "{content}"')
     
     await send_response(message, message.content)
-'''
-
-bot = commands.Bot(command_prefix='!', intents=nextcord.Intents.all())
-
-@bot.event
-async def on_ready():
-    print(f'{bot.user} has connected to Discord!')
     
-@bot.command(name='quote')
-async def quote(ctx):
-    response = get_response(ctx.message, 'quote')
-    await ctx.send(response)
-
-@bot.command(name='nba')
-async def nba(ctx):
-    response = get_response(ctx.message, 'nba')
-    await ctx.send(response)
-    
-@bot.command(name='chat')
-async def chat(ctx, *, message):
-    response = get_response(ctx.message, f'chat {message}')
-    await ctx.send(response)
-    
-@bot.command(name='weather')
-async def weather(ctx, *, location):
-    response = get_response(ctx.message, f'weather {location}')
-    await ctx.send(response)
-
 def main():
-    bot.run(TOKEN) 
+    client.run(token=TOKEN)  
     
 if __name__ == '__main__':
     main()
-
-
