@@ -8,5 +8,6 @@ requests - `pip install requests`\
 selenium - `pip install selenium`\
 bs4 - `pip install beautifulsoup4`\
 openai - `pip install openai`\
-aiohttp - `pip install aiohttp`
+aiohttp - `pip install aiohttp`\
+emoji - `pip install emoji`
 
