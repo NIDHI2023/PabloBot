@@ -38,9 +38,15 @@ def get_nba_score(date = curr_date) -> str:
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'html.parser')
 
+    # FIX THIS LATER ------------------------------------------------------------------------------------------------------------
     teams = soup.find_all('div', class_='ScoreCell__TeamName ScoreCell__TeamName--shortDisplayName truncate db')
     scores = soup.find_all('div', class_='ScoreCell__Score h4 clr-gray-01 fw-heavy tar ScoreCell_Score--scoreboard pl2')
+    #live_scores = soup.find_all('div', class_='ScoreCell__Score h5 clr-gray-01 fw-heavy tar')
     game_type = soup.find_all('div', class_='ScoreboardScoreCell__Note clr-gray-04 n9 w-auto ml0')
+    
+    completed = soup.find_all('div', class_='ScoreCell__Time ScoreboardScoreCell__Time h9 clr-gray-01')
+    progress = soup.find_all('div', class_='ScoreCell__Time ScoreboardScoreCell__Time h9 clr-negative')
+    
 
     if len(teams) == 0:
         return 'No games today'
@@ -52,13 +58,16 @@ def get_nba_score(date = curr_date) -> str:
         if game_type:
             matchup = game_type[0].text.split(',')
             series = matchup[1].strip() if len(matchup) == 2 else ''
-            embed = discord.Embed(title=f"{matchup[0]}: {teams[0].text} vs {teams[1].text}".strip(), description=f"{game_time[0].text} on {network[0].text}\n {series}".strip())
+            embed = discord.Embed(title=f"{completed[0].text}: {matchup[0]}: {teams[0].text} vs {teams[1].text}".strip(), description=f"{game_time[0].text} on {network[0].text}\n {series}".strip())
         else:
             embed = discord.Embed(title=f"{teams[0].text} vs {teams[1].text}", description=f"{game_time[0].text} on {network[0].text}")
         
         return embed
     else:
-        embed = discord.Embed(title='NBA Scores')
+        if (len(completed) == 1 and completed[0].text == 'Final'):
+            embed = discord.Embed(title=f'{completed[0].text}: NBA Scores', color=0x00ff00)
+        elif (len(progress) == 1 and progress[0].text != 'Final'):
+            embed = discord.Embed(title=f'{progress[0].text}: NBA Scores', color=0xff0000)
         for i in range(len(teams) // 2):
             if game_type:
                 matchup = game_type[0].text.split(',')
