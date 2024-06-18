@@ -4,6 +4,7 @@ import news
 import nba_scraper
 import chat_request
 import weather
+import twitch
 
 from discord import Message
 
@@ -25,8 +26,12 @@ async def get_response(message: Message, user_input: str):
         return chat_request.get_chat_response(user_input[5:])
     elif user_input.startswith('weather'):
         return await weather.get_weather(message, user_input[8:])
+    elif user_input.startswith('twitch'):
+        if len(user_input.split(" ")) != 2:
+            return "Use: !twitch <channel name>. Channel must be live (or in database ig)."
+        return await twitch.get_message(user_input.split(" ")[1])
     elif user_input == 'help':
-        return 'Available commands: quote, nba, news, chat, weather, help'
+        return 'Available commands: quote, nba, news, chat, weather, twitch, help'
     else:
         return 'bozo'
                                      
