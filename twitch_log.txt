@@ -6,87 +6,555 @@
 
 2024-06-14_21:10:08 -- :dynamicsz__!dynamicsz__@dynamicsz__.tmi.twitch.tv PRIVMSG #tarik :@jesswa  NOPERS
 
-2024-06-17_14:45:19 -- :lucasberrin!lucasberrin@lucasberrin.tmi.twitch.tv PRIVMSG #squishymuffinz :nice pfp drip squinchy
-2024-06-17_14:55:10 -- :elma_maria7956!elma_maria7956@elma_maria7956.tmi.twitch.tv PRIVMSG #squishymuffinz :!cam
-2024-06-17_14:55:11 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #squishymuffinz :FOV: 110 | Distance: 270 | Height: 100 | Angle: -5.0 | Stiffness: 0.4 | Swivel Speed: 4.7 | Transition Speed: 1.2
-2024-06-17_14:55:23 -- :elma_maria7956!elma_maria7956@elma_maria7956.tmi.twitch.tv PRIVMSG #squishymuffinz :!sensi
-2024-06-17_14:56:07 -- :snip3xzz!snip3xzz@snip3xzz.tmi.twitch.tv PRIVMSG #squishymuffinz :It is mechier???
-2024-06-17_14:56:07 -- :akari3600!akari3600@akari3600.tmi.twitch.tv PRIVMSG #squishymuffinz :@slightlyunbound yep me
-2024-06-17_14:56:08 -- :xthecrazybaconx!xthecrazybaconx@xthecrazybaconx.tmi.twitch.tv PRIVMSG #squishymuffinz :you’ll reach subgoal
-2024-06-17_14:56:14 -- :gryfff1n!gryfff1n@gryfff1n.tmi.twitch.tv PRIVMSG #squishymuffinz :has anyone ever put together a visual representation of how to use directional air roll?
-2024-06-17_15:01:25 — :fejkzi!fejkzi@fejkzi.tmi.twitch.tv PRIVMSG #squishymuffinz :what is this elo ;d?
-2024-06-17_15:01:40 — :papi_jaykob!papi_jaykob@papi_jaykob.tmi.twitch.tv PRIVMSG #squishymuffinz :@pushobrrr isnt switch like 30fps lol
-2024-06-17_15:09:35 -- :papi_jaykob!papi_jaykob@papi_jaykob.tmi.twitch.tv PRIVMSG #squishymuffinz :is this Dig Evoh or somebody elts?
-2024-06-17_15:09:40 -- :aoiii4!aoiii4@aoiii4.tmi.twitch.tv PRIVMSG #squishymuffinz :demoproof dlc
-2024-06-17_15:09:44 -- :lukas1rl!lukas1rl@lukas1rl.tmi.twitch.tv PRIVMSG #squishymuffinz :@Papi_Jaykob dig
-2024-06-17_16:28:50 -- :celestialkappa!celestialkappa@celestialkappa.tmi.twitch.tv PRIVMSG #squishymuffinz :Just squishy
-2024-06-17_16:34:10 -- :ispeciaiist!ispeciaiist@ispeciaiist.tmi.twitch.tv PRIVMSG #squishymuffinz :my points bro
-2024-06-17_16:34:25 -- :sh4warma44!sh4warma44@sh4warma44.tmi.twitch.tv PRIVMSG #squishymuffinz :bro they’re both so boring to play against
-2024-06-17_17:28:13 -- :mrpotatto03!mrpotatto03@mrpotatto03.tmi.twitch.tv PRIVMSG #squishymuffinz :hi hi
-2024-06-17_17:30:10 -- :qzevv!qzevv@qzevv.tmi.twitch.tv PRIVMSG #squishymuffinz :ive been stuck gc3 for like 1200 hours like i dont get it
-2024-06-17_17:32:56 -- :inaciospr!inaciospr@inaciospr.tmi.twitch.tv PRIVMSG #squishymuffinz :!camera
-2024-06-17_17:32:56 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #squishymuffinz :FOV: 110 | Distance: 270 | Height: 100 | Angle: -5.0 | Stiffness: 0.4 | Swivel Speed: 4.7 | Transition Speed: 1.2
-2024-06-17_17:33:13 -- :qzevv!qzevv@qzevv.tmi.twitch.tv PRIVMSG #squishymuffinz :@rlhuracan 1800 flat
-2024-06-17_17:34:44 -- :garykbare!garykbare@garykbare.tmi.twitch.tv PRIVMSG #squishymuffinz :@rpt1de_ me myself and i
-2024-06-17_17:34:45 -- :squeakybooots!squeakybooots@squeakybooots.tmi.twitch.tv PRIVMSG #squishymuffinz :@HydrationIsKeyLol oh thanks for the gift
-2024-06-17_17:34:48 -- :cs_strikes!cs_strikes@cs_strikes.tmi.twitch.tv PRIVMSG #squishymuffinz :do you mind explaining ur next game to us as you play it
-2024-06-17_17:34:52 -- :notime4caution!notime4caution@notime4caution.tmi.twitch.tv PRIVMSG #squishymuffinz :Squishy, what's the difference between your RTSSL kickoff and your normal speedflip?
-2024-06-17_17:35:13 -- :rlhuracan!rlhuracan@rlhuracan.tmi.twitch.tv PRIVMSG #squishymuffinz :that only works at ranks right squish? if u miss
-2024-06-17_17:38:14 -- :celestialkappa!celestialkappa@celestialkappa.tmi.twitch.tv PRIVMSG #squishymuffinz :lmfao holy
-2024-06-17_17:38:28 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #squishymuffinz :Don't forget to follow me on Twitter: https://twitter.com/SquishyMuffinz
-2024-06-17_17:39:35 -- :dannyloco13!dannyloco13@dannyloco13.tmi.twitch.tv PRIVMSG #squishymuffinz :Sheeesh the play have become more agressive with gm in your team :smiling_face_with_sunglasses:
-2024-06-17_17:39:46 -- :celestialkappa!celestialkappa@celestialkappa.tmi.twitch.tv PRIVMSG #squishymuffinz :@vmbz_ Camera is mirrored
-2024-06-17_17:44:44 -- :rpt1de_!rpt1de_@rpt1de_.tmi.twitch.tv PRIVMSG #squishymuffinz :how many hours do you have in the game????
-2024-06-17_20:36:26 -- :theasianaaron!theasianaaron@theasianaaron.tmi.twitch.tv PRIVMSG #clix :!leaderboard
-2024-06-17_20:36:26 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION theasianaaron, https://fortnitetracker.com/events/epicgames_S30_SoloVictoryCashCup_NAC
-2024-06-17_20:36:26 -- :danielna__!danielna__@danielna__.tmi.twitch.tv PRIVMSG #clix :SOME....
-2024-06-17_20:36:27 -- :leevai1!leevai1@leevai1.tmi.twitch.tv PRIVMSG #clix :@ibrasw ur into that shi huh didnt know ur freaky like that braw
-2024-06-17_20:36:27 -- :ibrasw!ibrasw@ibrasw.tmi.twitch.tv PRIVMSG #clix :@c0urtneyamanda Clix asked for me earlier in stream when i was outside with my family that shit just made my month
-2024-06-17_20:36:27 -- :choco_chief!choco_chief@choco_chief.tmi.twitch.tv PRIVMSG #clix :Stinky with the Nitro
-2024-06-17_20:36:28 -- :notmarkx!notmarkx@notmarkx.tmi.twitch.tv PRIVMSG #clix :@Awwks EZ
-2024-06-17_20:36:29 -- :dustlinz!dustlinz@dustlinz.tmi.twitch.tv PRIVMSG #clix :@cheesecakebtw L mods ffrffr
-2024-06-17_20:36:29 -- :xohash1!xohash1@xohash1.tmi.twitch.tv PRIVMSG #clix :keep w keying
-2024-06-17_20:36:30 -- :fadesythe15!fadesythe15@fadesythe15.tmi.twitch.tv PRIVMSG #clix :!Qual
-2024-06-17_20:36:32 -- :cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :@Awwks how many of those are legit Pffttt
-2024-06-17_20:36:33 -- :rclgreg!rclgreg@rclgreg.tmi.twitch.tv PRIVMSG #clix :X = 8.7% - Y = 6.3% - Targeting = 90.9% - Scope = 35.0%
-2024-06-17_20:36:35 -- :minling480!minling480@minling480.tmi.twitch.tv PRIVMSG #clix :DADDY
-2024-06-17_20:36:36 -- :ohkubey!ohkubey@ohkubey.tmi.twitch.tv PRIVMSG #clix :vixtory cup not cash
-2024-06-17_21:01:00 -- :piece_ctrl_kylegraal!piece_ctrl_kylegraal@piece_ctrl_kylegraal.tmi.twitch.tv PRIVMSG #clix :!song
-:nomzon_lol!nomzon_lol@nomzon_lol.tmi.twitch.tv PRIVMSG #clix :WWWWWW
-2024-06-17_21:01:01 -- :cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :oh god
-2024-06-17_21:01:01 -- :otxfarhan!otxfarhan@otxfarhan.tmi.twitch.tv PRIVMSG #clix :dead off spawn
-2024-06-17_21:01:01 -- :pizzaafanyy!pizzaafanyy@pizzaafanyy.tmi.twitch.tv PRIVMSG #clix :nooooooo
-2024-06-17_21:01:02 -- :overstableo!overstableo@overstableo.tmi.twitch.tv PRIVMSG #clix :I am sorry clix
-2024-06-17_21:01:02 -- :lorklapzz!lorklapzz@lorklapzz.tmi.twitch.tv PRIVMSG #clix :bros about to tee down :loudly_crying_face::loudly_crying_face:
-2024-06-17_21:01:02 -- :bagelcagle3!bagelcagle3@bagelcagle3.tmi.twitch.tv PRIVMSG #clix :CLIX YOUR BUTT… I LOVE IT ITS SO ROUND PLIMP AND JUICY CLIX LIKEEEE ABHHH LEMME EAT IT UP BIG BOY:kiss_mark::kiss_mark::kiss_mark::kiss_mark:
-2024-06-17_21:01:03 -- :indoneel!indoneel@indoneel.tmi.twitch.tv PRIVMSG #clix :W song
-2024-06-17_21:01:03 -- :brotron9601!brotron9601@brotron9601.tmi.twitch.tv PRIVMSG #clix :by me pc
-2024-06-17_21:01:03 -- :batmanjuh!batmanjuh@batmanjuh.tmi.twitch.tv PRIVMSG #clix :im out
-2024-06-17_21:01:03 -- :dannyishim13323264656456!dannyishim13323264656456@dannyishim13323264656456.tmi.twitch.tv PRIVMSG #clix :NNNAHHHHHHHHHHHHH
-2024-06-17_21:01:04 -- :ibrasw!ibrasw@ibrasw.tmi.twitch.tv PRIVMSG #clix :JUST DONT PLAY UR PART
-2024-06-17_21:01:04 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWWW
-2024-06-17_21:01:04 -- :ftp_james02!ftp_james02@ftp_james02.tmi.twitch.tv PRIVMSG #clix :turn this shit off
-2024-06-17_21:01:04 -- :fnkaxtv!fnkaxtv@fnkaxtv.tmi.twitch.tv PRIVMSG #clix :!qual
-2024-06-17_21:01:04 -- :s979_top!s979_top@s979_top.tmi.twitch.tv PRIVMSG #clix :Offspawn incoming
-:cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :not this song
-:value1x!value1x@value1x.tmi.twitch.tv PRIVMSG #clix ::muted_speaker:
-2024-06-17_21:01:05 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION fnkaxtv, Top 50 qual to Week 1 Finals. Qual is around 340
-2024-06-17_21:01:05 -- :notmarkx!notmarkx@notmarkx.tmi.twitch.tv PRIVMSG #clix :litteshitter77 is better
-2024-06-17_21:01:05 -- :eggmcdoubles!eggmcdoubles@eggmcdoubles.tmi.twitch.tv PRIVMSG #clix :OH SHIT
-2024-06-17_21:01:06 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWW
-2024-06-17_21:01:06 -- :flyeagl3!flyeagl3@flyeagl3.tmi.twitch.tv PRIVMSG #clix :music?
-2024-06-17_21:01:06 -- :toogan7!toogan7@toogan7.tmi.twitch.tv PRIVMSG #clix :!qualifierwarrior
-2024-06-17_21:01:06 -- :c0urtneyamanda!c0urtneyamanda@c0urtneyamanda.tmi.twitch.tv PRIVMSG #clix :goClix
-2024-06-17_21:01:07 -- :cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :MY EARS
-2024-06-17_21:01:08 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWWW
-2024-06-17_21:01:08 -- :pizzaafanyy!pizzaafanyy@pizzaafanyy.tmi.twitch.tv PRIVMSG #clix :BOOOOOOOOOO :tomato::tomato::tomato::tomato::tomato::tomato::tomato::tomato:
-2024-06-17_21:01:08 -- :liamofwalker!liamofwalker@liamofwalker.tmi.twitch.tv PRIVMSG #clix :lock in lil bro
-2024-06-17_21:01:08 -- :feldy!feldy@feldy.tmi.twitch.tv PRIVMSG #clix :..
-2024-06-17_21:01:09 -- :whojumpp!whojumpp@whojumpp.tmi.twitch.tv PRIVMSG #clix :wtf
-2024-06-17_21:01:09 -- :111111145666666666666!111111145666666666666@111111145666666666666.tmi.twitch.tv PRIVMSG #clix :come on clix
-2024-06-17_21:01:09 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWW
-2024-06-17_21:01:10 -- :dannyishim13323264656456!dannyishim13323264656456@dannyishim13323264656456.tmi.twitch.tv PRIVMSG #clix :WWWWW
-2024-06-17_21:01:10 -- :alexanderpk28!alexanderpk28@alexanderpk28.tmi.twitch.tv PRIVMSG #clix :!song
-2024-06-17_21:01:10 -- :value1x!value1x@value1x.tmi.twitch.tv PRIVMSG #clix :muted it
-:gekkeremco_22!gekkeremco_22@gekkeremco_22.tmi.twitch.tv PRIVMSG #clix :Turn this off pls
-2024-06-17_21:01:10 -- :insane_pizza_!insane_pizza_@insane_pizza_.tmi.twitch.tv PRIVMSG #clix :caseohWiijams GoatEmotey FortOne
+2024-06-17_14:45:19 -- :lucasberrin!lucasberrin@lucasberrin.tmi.twitch.tv PRIVMSG #squishymuffinz :nice pfp drip squinchy
+
+2024-06-17_14:55:10 -- :elma_maria7956!elma_maria7956@elma_maria7956.tmi.twitch.tv PRIVMSG #squishymuffinz :!cam
+
+2024-06-17_14:55:11 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #squishymuffinz :FOV: 110 | Distance: 270 | Height: 100 | Angle: -5.0 | Stiffness: 0.4 | Swivel Speed: 4.7 | Transition Speed: 1.2
+
+2024-06-17_14:55:23 -- :elma_maria7956!elma_maria7956@elma_maria7956.tmi.twitch.tv PRIVMSG #squishymuffinz :!sensi
+
+2024-06-17_14:56:07 -- :snip3xzz!snip3xzz@snip3xzz.tmi.twitch.tv PRIVMSG #squishymuffinz :It is mechier???
+
+2024-06-17_14:56:07 -- :akari3600!akari3600@akari3600.tmi.twitch.tv PRIVMSG #squishymuffinz :@slightlyunbound yep me
+
+2024-06-17_14:56:08 -- :xthecrazybaconx!xthecrazybaconx@xthecrazybaconx.tmi.twitch.tv PRIVMSG #squishymuffinz :youï¿½ll reach subgoal
+
+2024-06-17_14:56:14 -- :gryfff1n!gryfff1n@gryfff1n.tmi.twitch.tv PRIVMSG #squishymuffinz :has anyone ever put together a visual representation of how to use directional air roll?
+
+2024-06-17_15:01:25 ï¿½ :fejkzi!fejkzi@fejkzi.tmi.twitch.tv PRIVMSG #squishymuffinz :what is this elo ;d?
+
+2024-06-17_15:01:40 ï¿½ :papi_jaykob!papi_jaykob@papi_jaykob.tmi.twitch.tv PRIVMSG #squishymuffinz :@pushobrrr isnt switch like 30fps lol
+
+2024-06-17_15:09:35 -- :papi_jaykob!papi_jaykob@papi_jaykob.tmi.twitch.tv PRIVMSG #squishymuffinz :is this Dig Evoh or somebody elts?
+
+2024-06-17_15:09:40 -- :aoiii4!aoiii4@aoiii4.tmi.twitch.tv PRIVMSG #squishymuffinz :demoproof dlc
+
+2024-06-17_15:09:44 -- :lukas1rl!lukas1rl@lukas1rl.tmi.twitch.tv PRIVMSG #squishymuffinz :@Papi_Jaykob dig
+
+2024-06-17_16:28:50 -- :celestialkappa!celestialkappa@celestialkappa.tmi.twitch.tv PRIVMSG #squishymuffinz :Just squishy
+
+2024-06-17_16:34:10 -- :ispeciaiist!ispeciaiist@ispeciaiist.tmi.twitch.tv PRIVMSG #squishymuffinz :my points bro
+
+2024-06-17_16:34:25 -- :sh4warma44!sh4warma44@sh4warma44.tmi.twitch.tv PRIVMSG #squishymuffinz :bro theyï¿½re both so boring to play against
+
+2024-06-17_17:28:13 -- :mrpotatto03!mrpotatto03@mrpotatto03.tmi.twitch.tv PRIVMSG #squishymuffinz :hi hi
+
+2024-06-17_17:30:10 -- :qzevv!qzevv@qzevv.tmi.twitch.tv PRIVMSG #squishymuffinz :ive been stuck gc3 for like 1200 hours like i dont get it
+
+2024-06-17_17:32:56 -- :inaciospr!inaciospr@inaciospr.tmi.twitch.tv PRIVMSG #squishymuffinz :!camera
+
+2024-06-17_17:32:56 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #squishymuffinz :FOV: 110 | Distance: 270 | Height: 100 | Angle: -5.0 | Stiffness: 0.4 | Swivel Speed: 4.7 | Transition Speed: 1.2
+
+2024-06-17_17:33:13 -- :qzevv!qzevv@qzevv.tmi.twitch.tv PRIVMSG #squishymuffinz :@rlhuracan 1800 flat
+
+2024-06-17_17:34:44 -- :garykbare!garykbare@garykbare.tmi.twitch.tv PRIVMSG #squishymuffinz :@rpt1de_ me myself and i
+
+2024-06-17_17:34:45 -- :squeakybooots!squeakybooots@squeakybooots.tmi.twitch.tv PRIVMSG #squishymuffinz :@HydrationIsKeyLol oh thanks for the gift
+
+2024-06-17_17:34:48 -- :cs_strikes!cs_strikes@cs_strikes.tmi.twitch.tv PRIVMSG #squishymuffinz :do you mind explaining ur next game to us as you play it
+
+2024-06-17_17:34:52 -- :notime4caution!notime4caution@notime4caution.tmi.twitch.tv PRIVMSG #squishymuffinz :Squishy, what's the difference between your RTSSL kickoff and your normal speedflip?
+
+2024-06-17_17:35:13 -- :rlhuracan!rlhuracan@rlhuracan.tmi.twitch.tv PRIVMSG #squishymuffinz :that only works at ranks right squish? if u miss
+
+2024-06-17_17:38:14 -- :celestialkappa!celestialkappa@celestialkappa.tmi.twitch.tv PRIVMSG #squishymuffinz :lmfao holy
+
+2024-06-17_17:38:28 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #squishymuffinz :Don't forget to follow me on Twitter: https://twitter.com/SquishyMuffinz
+
+2024-06-17_17:39:35 -- :dannyloco13!dannyloco13@dannyloco13.tmi.twitch.tv PRIVMSG #squishymuffinz :Sheeesh the play have become more agressive with gm in your team :smiling_face_with_sunglasses:
+
+2024-06-17_17:39:46 -- :celestialkappa!celestialkappa@celestialkappa.tmi.twitch.tv PRIVMSG #squishymuffinz :@vmbz_ Camera is mirrored
+
+2024-06-17_17:44:44 -- :rpt1de_!rpt1de_@rpt1de_.tmi.twitch.tv PRIVMSG #squishymuffinz :how many hours do you have in the game????
+
+2024-06-17_20:36:26 -- :theasianaaron!theasianaaron@theasianaaron.tmi.twitch.tv PRIVMSG #clix :!leaderboard
+
+2024-06-17_20:36:26 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION theasianaaron, https://fortnitetracker.com/events/epicgames_S30_SoloVictoryCashCup_NAC
+
+2024-06-17_20:36:26 -- :danielna__!danielna__@danielna__.tmi.twitch.tv PRIVMSG #clix :SOME....
+
+2024-06-17_20:36:27 -- :leevai1!leevai1@leevai1.tmi.twitch.tv PRIVMSG #clix :@ibrasw ur into that shi huh didnt know ur freaky like that braw
+
+2024-06-17_20:36:27 -- :ibrasw!ibrasw@ibrasw.tmi.twitch.tv PRIVMSG #clix :@c0urtneyamanda Clix asked for me earlier in stream when i was outside with my family that shit just made my month
+
+2024-06-17_20:36:27 -- :choco_chief!choco_chief@choco_chief.tmi.twitch.tv PRIVMSG #clix :Stinky with the Nitro
+
+2024-06-17_20:36:28 -- :notmarkx!notmarkx@notmarkx.tmi.twitch.tv PRIVMSG #clix :@Awwks EZ
+
+2024-06-17_20:36:29 -- :dustlinz!dustlinz@dustlinz.tmi.twitch.tv PRIVMSG #clix :@cheesecakebtw L mods ffrffr
+
+2024-06-17_20:36:29 -- :xohash1!xohash1@xohash1.tmi.twitch.tv PRIVMSG #clix :keep w keying
+
+2024-06-17_20:36:30 -- :fadesythe15!fadesythe15@fadesythe15.tmi.twitch.tv PRIVMSG #clix :!Qual
+
+2024-06-17_20:36:32 -- :cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :@Awwks how many of those are legit Pffttt
+
+2024-06-17_20:36:33 -- :rclgreg!rclgreg@rclgreg.tmi.twitch.tv PRIVMSG #clix :X = 8.7% - Y = 6.3% - Targeting = 90.9% - Scope = 35.0%
+
+2024-06-17_20:36:35 -- :minling480!minling480@minling480.tmi.twitch.tv PRIVMSG #clix :DADDY
+
+2024-06-17_20:36:36 -- :ohkubey!ohkubey@ohkubey.tmi.twitch.tv PRIVMSG #clix :vixtory cup not cash
+
+2024-06-17_21:01:00 -- :piece_ctrl_kylegraal!piece_ctrl_kylegraal@piece_ctrl_kylegraal.tmi.twitch.tv PRIVMSG #clix :!song
+
+:nomzon_lol!nomzon_lol@nomzon_lol.tmi.twitch.tv PRIVMSG #clix :WWWWWW
+
+2024-06-17_21:01:01 -- :cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :oh god
+
+2024-06-17_21:01:01 -- :otxfarhan!otxfarhan@otxfarhan.tmi.twitch.tv PRIVMSG #clix :dead off spawn
+
+2024-06-17_21:01:01 -- :pizzaafanyy!pizzaafanyy@pizzaafanyy.tmi.twitch.tv PRIVMSG #clix :nooooooo
+
+2024-06-17_21:01:02 -- :overstableo!overstableo@overstableo.tmi.twitch.tv PRIVMSG #clix :I am sorry clix
+
+2024-06-17_21:01:02 -- :lorklapzz!lorklapzz@lorklapzz.tmi.twitch.tv PRIVMSG #clix :bros about to tee down :loudly_crying_face::loudly_crying_face:
+
+2024-06-17_21:01:02 -- :bagelcagle3!bagelcagle3@bagelcagle3.tmi.twitch.tv PRIVMSG #clix :CLIX YOUR BUTTï¿½ I LOVE IT ITS SO ROUND PLIMP AND JUICY CLIX LIKEEEE ABHHH LEMME EAT IT UP BIG BOY:kiss_mark::kiss_mark::kiss_mark::kiss_mark:
+
+2024-06-17_21:01:03 -- :indoneel!indoneel@indoneel.tmi.twitch.tv PRIVMSG #clix :W song
+
+2024-06-17_21:01:03 -- :brotron9601!brotron9601@brotron9601.tmi.twitch.tv PRIVMSG #clix :by me pc
+
+2024-06-17_21:01:03 -- :batmanjuh!batmanjuh@batmanjuh.tmi.twitch.tv PRIVMSG #clix :im out
+
+2024-06-17_21:01:03 -- :dannyishim13323264656456!dannyishim13323264656456@dannyishim13323264656456.tmi.twitch.tv PRIVMSG #clix :NNNAHHHHHHHHHHHHH
+
+2024-06-17_21:01:04 -- :ibrasw!ibrasw@ibrasw.tmi.twitch.tv PRIVMSG #clix :JUST DONT PLAY UR PART
+
+2024-06-17_21:01:04 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWWW
+
+2024-06-17_21:01:04 -- :ftp_james02!ftp_james02@ftp_james02.tmi.twitch.tv PRIVMSG #clix :turn this shit off
+
+2024-06-17_21:01:04 -- :fnkaxtv!fnkaxtv@fnkaxtv.tmi.twitch.tv PRIVMSG #clix :!qual
+
+2024-06-17_21:01:04 -- :s979_top!s979_top@s979_top.tmi.twitch.tv PRIVMSG #clix :Offspawn incoming
+
+:cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :not this song
+
+:value1x!value1x@value1x.tmi.twitch.tv PRIVMSG #clix ::muted_speaker:
+
+2024-06-17_21:01:05 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION fnkaxtv, Top 50 qual to Week 1 Finals. Qual is around 340
+
+2024-06-17_21:01:05 -- :notmarkx!notmarkx@notmarkx.tmi.twitch.tv PRIVMSG #clix :litteshitter77 is better
+
+2024-06-17_21:01:05 -- :eggmcdoubles!eggmcdoubles@eggmcdoubles.tmi.twitch.tv PRIVMSG #clix :OH SHIT
+
+2024-06-17_21:01:06 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWW
+
+2024-06-17_21:01:06 -- :flyeagl3!flyeagl3@flyeagl3.tmi.twitch.tv PRIVMSG #clix :music?
+
+2024-06-17_21:01:06 -- :toogan7!toogan7@toogan7.tmi.twitch.tv PRIVMSG #clix :!qualifierwarrior
+
+2024-06-17_21:01:06 -- :c0urtneyamanda!c0urtneyamanda@c0urtneyamanda.tmi.twitch.tv PRIVMSG #clix :goClix
+
+2024-06-17_21:01:07 -- :cheesecakebtw!cheesecakebtw@cheesecakebtw.tmi.twitch.tv PRIVMSG #clix :MY EARS
+
+2024-06-17_21:01:08 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWWW
+
+2024-06-17_21:01:08 -- :pizzaafanyy!pizzaafanyy@pizzaafanyy.tmi.twitch.tv PRIVMSG #clix :BOOOOOOOOOO :tomato::tomato::tomato::tomato::tomato::tomato::tomato::tomato:
+
+2024-06-17_21:01:08 -- :liamofwalker!liamofwalker@liamofwalker.tmi.twitch.tv PRIVMSG #clix :lock in lil bro
+
+2024-06-17_21:01:08 -- :feldy!feldy@feldy.tmi.twitch.tv PRIVMSG #clix :..
+
+2024-06-17_21:01:09 -- :whojumpp!whojumpp@whojumpp.tmi.twitch.tv PRIVMSG #clix :wtf
+
+2024-06-17_21:01:09 -- :111111145666666666666!111111145666666666666@111111145666666666666.tmi.twitch.tv PRIVMSG #clix :come on clix
+
+2024-06-17_21:01:09 -- :gamerkevinp!gamerkevinp@gamerkevinp.tmi.twitch.tv PRIVMSG #clix :WWW
+
+2024-06-17_21:01:10 -- :dannyishim13323264656456!dannyishim13323264656456@dannyishim13323264656456.tmi.twitch.tv PRIVMSG #clix :WWWWW
+
+2024-06-17_21:01:10 -- :alexanderpk28!alexanderpk28@alexanderpk28.tmi.twitch.tv PRIVMSG #clix :!song
+
+2024-06-17_21:01:10 -- :value1x!value1x@value1x.tmi.twitch.tv PRIVMSG #clix :muted it
+
+:gekkeremco_22!gekkeremco_22@gekkeremco_22.tmi.twitch.tv PRIVMSG #clix :Turn this off pls
+
+2024-06-17_21:01:10 -- :insane_pizza_!insane_pizza_@insane_pizza_.tmi.twitch.tv PRIVMSG #clix :caseohWiijams GoatEmotey FortOne
+
+2024-06-19_20:17:08 -- :1nsanic!1nsanic@1nsanic.tmi.twitch.tv PRIVMSG #clix :female clix
+
+2024-06-19_20:17:09 -- :ejs_goat85!ejs_goat85@ejs_goat85.tmi.twitch.tv PRIVMSG #clix :ON ISLAND
+
+2024-06-19_20:17:12 -- :toturntkeys!toturntkeys@toturntkeys.tmi.twitch.tv PRIVMSG #clix :killing 30 percent of the lobby is wild
+
+2024-06-19_20:17:12 -- :jordynkindatired!jordynkindatired@jordynkindatired.tmi.twitch.tv PRIVMSG #clix :bleh
+
+2024-06-19_20:17:12 -- :not_sebb!not_sebb@not_sebb.tmi.twitch.tv PRIVMSG #clix :!watchtime
+
+2024-06-19_20:17:14 -- :whyjayfn4x!whyjayfn4x@whyjayfn4x.tmi.twitch.tv PRIVMSG #clix :!match
+
+2024-06-19_20:17:15 -- :reaper734!reaper734@reaper734.tmi.twitch.tv PRIVMSG #clix :D:
+
+:nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION This is Match 1/10.
+
+2024-06-19_20:17:16 -- :lz18thh!lz18thh@lz18thh.tmi.twitch.tv PRIVMSG #clix :they in lavishhh
+
+2024-06-19_20:17:16 -- :dxzzybtw!dxzzybtw@dxzzybtw.tmi.twitch.tv PRIVMSG #clix :@notmarkx why canï¿½t I prime sub on mobile if I linked my account thereï¿½s just no option to click prime sub
+
+2024-06-19_20:17:17 -- :14709653112!14709653112@14709653112.tmi.twitch.tv PRIVMSG #clix :!qual
+
+2024-06-19_20:17:17 -- :nateoce_!nateoce_@nateoce_.tmi.twitch.tv PRIVMSG #clix :he grabbed his card
+
+:nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION 14709653112, Qual is around 410-415 points for NAC duo cash cup finals
+
+:asad_asafandyar10!asad_asafandyar10@asad_asafandyar10.tmi.twitch.tv PRIVMSG #clix :clix winning this fncs easy
+
+2024-06-19_20:17:19 -- :coltthe_bolt!coltthe_bolt@coltthe_bolt.tmi.twitch.tv PRIVMSG #clix :!match
+
+2024-06-19_20:46:58 -- :notmarkx!notmarkx@notmarkx.tmi.twitch.tv PRIVMSG #clix :@RynoPS 4
+
+2024-06-19_20:46:58 -- :zmonoshot!zmonoshot@zmonoshot.tmi.twitch.tv PRIVMSG #clix :the cheater is in 23rd place now idk how
+
+2024-06-19_20:46:58 -- :eggmcdoubles!eggmcdoubles@eggmcdoubles.tmi.twitch.tv PRIVMSG #clix :@duckyuwu24 lucky fucker OMEGALUL
+
+2024-06-19_20:47:02 -- :rakan4x!rakan4x@rakan4x.tmi.twitch.tv PRIVMSG #clix :!match
+
+2024-06-19_20:47:02 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION This is Match 4/10.
+
+2024-06-19_20:47:03 -- :minitg_32!minitg_32@minitg_32.tmi.twitch.tv PRIVMSG #clix :settings?
+
+2024-06-19_20:47:04 -- :mavens694!mavens694@mavens694.tmi.twitch.tv PRIVMSG #clix :@suzemane why you here?
+
+2024-06-19_20:47:05 -- :egirlronny!egirlronny@egirlronny.tmi.twitch.tv PRIVMSG #clix :!daddy
+
+2024-06-19_20:50:07 -- :zok2x!zok2x@zok2x.tmi.twitch.tv PRIVMSG #clix :!delay
+
+2024-06-19_20:50:08 -- :luchonabiz!luchonabiz@luchonabiz.tmi.twitch.tv PRIVMSG #clix :POGGIES pepePointL
+
+2024-06-19_20:50:09 -- :norcg!norcg@norcg.tmi.twitch.tv PRIVMSG #clix :www gameplay
+
+2024-06-19_20:50:09 -- :neishbuck!neishbuck@neishbuck.tmi.twitch.tv PRIVMSG #clix :yo
+
+2024-06-19_20:50:10 -- :fr0gness!fr0gness@fr0gness.tmi.twitch.tv PRIVMSG #clix :!keyboard
+
+2024-06-19_20:50:10 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION fr0gness, Cotton Candy Keyboards are SOLD OUT https://matrixkeyboards.com/collections/clix
+
+2024-06-19_20:50:10 -- :zeckdropemoff!zeckdropemoff@zeckdropemoff.tmi.twitch.tv PRIVMSG #clix :!qual
+
+:hyperlime!hyperlime@hyperlime.tmi.twitch.tv PRIVMSG #clix :STAY IN THE BUSH CLIX! :flexed_biceps: :cat_with_tears_of_joy: :dashing_away:
+
+2024-06-19_20:50:10 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION zeckdropemoff, Qual is around 410-415 points for NAC duo cash cup finals
+
+2024-06-19_20:50:11 -- :duckyuwu24!duckyuwu24@duckyuwu24.tmi.twitch.tv PRIVMSG #clix :FirstTimeChatter
+
+2024-06-19_20:50:13 -- :kunvergil!kunvergil@kunvergil.tmi.twitch.tv PRIVMSG #clix :<Message eaten by yoxic>
+
+2024-06-19_20:50:13 -- :mavens694!mavens694@mavens694.tmi.twitch.tv PRIVMSG #clix :@sweatykun_ he is 17 but ok..
+
+2024-06-19_20:50:15 -- :mattprettycute!mattprettycute@mattprettycute.tmi.twitch.tv PRIVMSG #clix :yall gotta play aggressive ngl
+
+2024-06-19_20:50:15 -- :sleepy649!sleepy649@sleepy649.tmi.twitch.tv PRIVMSG #clix :@Caucaze nah it was only funny the first time
+
+2024-06-19_20:50:15 -- :hiram2563!hiram2563@hiram2563.tmi.twitch.tv PRIVMSG #clix :!game
+
+2024-06-19_20:50:16 -- :fakey1xx!fakey1xx@fakey1xx.tmi.twitch.tv PRIVMSG #clix :!doublemovement
+
+2024-06-19_20:50:16 -- :rakan4x!rakan4x@rakan4x.tmi.twitch.tv PRIVMSG #clix :clixWaiting
+
+2024-06-19_20:50:16 -- :daddy_default1!daddy_default1@daddy_default1.tmi.twitch.tv PRIVMSG #clix :@framez21 men shut you ugly ahh up and go watch cold boring ahh stream gang
+
+2024-06-19_20:50:17 -- :typsyfn!typsyfn@typsyfn.tmi.twitch.tv PRIVMSG #clix :@terrellweaverhf hey boy
+
+2024-06-19_20:52:39 -- :seaofchris!seaofchris@seaofchris.tmi.twitch.tv PRIVMSG #clix :@duckyuwu24 stfu u take dick up the rear end
+
+2024-06-19_20:52:41 -- :myzri__!myzri__@myzri__.tmi.twitch.tv PRIVMSG #clix :@yoxic were you at dreamhack?
+
+2024-06-19_20:52:41 -- :ellaterwey18!ellaterwey18@ellaterwey18.tmi.twitch.tv PRIVMSG #clix :tf that sound
+
+2024-06-19_20:52:42 -- :oficalsono!oficalsono@oficalsono.tmi.twitch.tv PRIVMSG #clix :MrDestructoid
+
+2024-06-19_20:52:42 -- :raidersogodly97!raidersogodly97@raidersogodly97.tmi.twitch.tv PRIVMSG #clix :!game
+
+2024-06-19_20:52:43 -- :lehends000!lehends000@lehends000.tmi.twitch.tv PRIVMSG #clix :tf is that battleships music
+
+2024-06-19_20:52:44 -- :sajpr7!sajpr7@sajpr7.tmi.twitch.tv PRIVMSG #clix :hi
+
+2024-06-19_20:52:46 -- :innof4!innof4@innof4.tmi.twitch.tv PRIVMSG #clix :!watchtime
+
+2024-06-19_20:53:52 -- :ygamevlog011!ygamevlog011@ygamevlog011.tmi.twitch.tv PRIVMSG #clix :LOL
+
+2024-06-19_20:53:53 -- :trixyyza!trixyyza@trixyyza.tmi.twitch.tv PRIVMSG #clix :Chat game?
+
+2024-06-19_20:53:53 -- :whyjayfn4x!whyjayfn4x@whyjayfn4x.tmi.twitch.tv PRIVMSG #clix :Gold
+
+2024-06-19_20:53:53 -- :jvmzoo!jvmzoo@jvmzoo.tmi.twitch.tv PRIVMSG #clix :!doublemovement
+
+2024-06-19_20:53:55 -- :clcasy!clcasy@clcasy.tmi.twitch.tv PRIVMSG #clix :!watchtime
+
+2024-06-19_20:53:56 -- :notmarkx!notmarkx@notmarkx.tmi.twitch.tv PRIVMSG #clix :@TrixyyZA 4
+
+2024-06-19_20:53:56 -- :rakan4x!rakan4x@rakan4x.tmi.twitch.tv PRIVMSG #clix :clixWiggle
+
+2024-06-19_20:53:57 -- :oficalsono!oficalsono@oficalsono.tmi.twitch.tv PRIVMSG #clix :Best
+
+2024-06-19_20:53:58 -- :hyperlime!hyperlime@hyperlime.tmi.twitch.tv PRIVMSG #clix :its decent tbh
+
+2024-06-19_20:53:59 -- :layksweatsfn!layksweatsfn@layksweatsfn.tmi.twitch.tv PRIVMSG #clix :wow
+
+2024-06-19_20:55:51 -- :billy_ward17!billy_ward17@billy_ward17.tmi.twitch.tv PRIVMSG #clix :!leaderboard
+
+2024-06-19_20:55:51 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION billy_ward17, https://fortnitetracker.com/events/epicgames_S30_DuosCashCup_NAC
+
+2024-06-19_20:55:52 -- :emo_da_goon!emo_da_goon@emo_da_goon.tmi.twitch.tv PRIVMSG #clix :Discord mod camp is crazy:skull:
+
+2024-06-19_20:55:53 -- :crispydiego5!crispydiego5@crispydiego5.tmi.twitch.tv PRIVMSG #clix :!match
+
+2024-06-19_20:55:53 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION This is Match 4/10.
+
+2024-06-19_20:55:54 -- :puerccofn!puerccofn@puerccofn.tmi.twitch.tv PRIVMSG #clix :!leaderboard
+
+2024-06-19_20:55:55 -- :jvmzoo!jvmzoo@jvmzoo.tmi.twitch.tv PRIVMSG #clix :!colorblind
+
+2024-06-19_20:55:55 -- :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #clix :ACTION Jvmzoo, Deuteranope 5
+
+2024-06-19_20:55:57 -- :raff9667!raff9667@raff9667.tmi.twitch.tv PRIVMSG #clix :@lehends000 it sends it to dms
+
+2024-06-19_20:55:58 -- :supersavage360!supersavage360@supersavage360.tmi.twitch.tv PRIVMSG #clix :Who remembers the 12m channel point reward
+
+2024-06-19_20:55:58 -- :luxxxloll!luxxxloll@luxxxloll.tmi.twitch.tv PRIVMSG #clix :@xraptorfanx undetectable cheats
+
+2024-06-19_20:56:00 -- :nstarfv1!nstarfv1@nstarfv1.tmi.twitch.tv PRIVMSG #clix :!match
+
+2024-06-20_16:31:26 -- :dizge!dizge@dizge.tmi.twitch.tv PRIVMSG #squishymuffinz :squishy u weï¿½re more of a lan demon but consistent online
+
+2024-06-20_16:31:56 -- :vicock12!vicock12@vicock12.tmi.twitch.tv PRIVMSG #rocketleague :Falcons and furia overrated
+
+2024-06-20_16:31:57 -- :eggrollattack!eggrollattack@eggrollattack.tmi.twitch.tv PRIVMSG #rocketleague :w
+
+2024-06-20_16:31:57 -- :renownrivers!renownrivers@renownrivers.tmi.twitch.tv PRIVMSG #rocketleague :L
+
+2024-06-20_16:38:52 -- :ocram7_!ocram7_@ocram7_.tmi.twitch.tv PRIVMSG #rocketleague :lost is lost man
+
+2024-06-20_16:38:54 -- :alvyon!alvyon@alvyon.tmi.twitch.tv PRIVMSG #rocketleague :Hey
+
+2024-06-20_16:38:55 -- :kiubo07!kiubo07@kiubo07.tmi.twitch.tv PRIVMSG #rocketleague :new ball???
+
+2024-06-20_16:38:55 -- :babinga5!babinga5@babinga5.tmi.twitch.tv PRIVMSG #rocketleague :@Azerr1 joosie*
+
+2024-06-20_16:38:56 -- :niclas_ea!niclas_ea@niclas_ea.tmi.twitch.tv PRIVMSG #rocketleague :sausage
+
+2024-06-20_16:39:00 -- :denm1ha!denm1ha@denm1ha.tmi.twitch.tv PRIVMSG #rocketleague :@thystics not a single game
+
+2024-06-20_16:39:00 -- :hhhhaste!hhhhaste@hhhhaste.tmi.twitch.tv PRIVMSG #rocketleague :@thystics No.
+
+2024-06-20_16:39:01 -- :sniffdoots!sniffdoots@sniffdoots.tmi.twitch.tv PRIVMSG #rocketleague :@thystics no
+
+2024-06-20_16:56:53 -- :bangsrootbeer!bangsrootbeer@bangsrootbeer.tmi.twitch.tv PRIVMSG #rocketleague :SOUTH NA LUL
+
+2024-06-20_16:56:54 -- :jbugm!jbugm@jbugm.tmi.twitch.tv PRIVMSG #rocketleague :south NA clears PeeU I fear
+
+2024-06-20_16:56:54 -- :spaceywolff!spaceywolff@spaceywolff.tmi.twitch.tv PRIVMSG #rocketleague :Tell that lady to be queit
+
+2024-06-20_16:56:54 -- :luizooooo!luizooooo@luizooooo.tmi.twitch.tv PRIVMSG #rocketleague :WHY theyre throwing like that M8
+
+2024-06-20_16:56:55 -- :technioszn!technioszn@technioszn.tmi.twitch.tv PRIVMSG #rocketleague :i love rocket leagye
+
+2024-06-20_16:56:56 -- :wizkhalifa159!wizkhalifa159@wizkhalifa159.tmi.twitch.tv PRIVMSG #rocketleague :k
+
+2024-06-20_16:56:57 -- :okomi87!okomi87@okomi87.tmi.twitch.tv PRIVMSG #rocketleague :Eu overrated
+
+2024-06-20_16:56:57 -- :mat_fuent!mat_fuent@mat_fuent.tmi.twitch.tv PRIVMSG #rocketleague :Br on top
+
+2024-06-20_16:56:57 -- :sensaitama!sensaitama@sensaitama.tmi.twitch.tv PRIVMSG #rocketleague :@sarcasticsafire how old are you?
+
+2024-06-20_16:56:58 -- :ink_zorath!ink_zorath@ink_zorath.tmi.twitch.tv PRIVMSG #rocketleague :T
+
+2024-06-20_16:56:58 -- :d3ptthh!d3ptthh@d3ptthh.tmi.twitch.tv PRIVMSG #rocketleague :@stankbrain23 your english isnt correct, if you're going to make a comeback at least make it grammatically correct LUL plat rat
+
+2024-06-20_16:56:59 -- :apollo___rl!apollo___rl@apollo___rl.tmi.twitch.tv PRIVMSG #rocketleague :juicy looks like hes always *redacted by mods*
+
+2024-06-20_16:57:02 -- :ajc__rl!ajc__rl@ajc__rl.tmi.twitch.tv PRIVMSG #rocketleague :how do they make Europe look slow
+
+2024-06-20_16:57:02 -- :teddyjo1237!teddyjo1237@teddyjo1237.tmi.twitch.tv PRIVMSG #rocketleague :I swear lemonkiwi has a 80% chance of making EU loose when she is casting
+
+2024-06-20_16:57:04 -- :alow_music!alow_music@alow_music.tmi.twitch.tv PRIVMSG #rocketleague :@ArcticBurst u write music too? lmao
+
+2024-06-20_17:01:06 -- :dj_tom_tom_!dj_tom_tom_@dj_tom_tom_.tmi.twitch.tv PRIVMSG #rocketleague :FURIAAAAAAAA
+
+2024-06-20_17:03:41 -- :quik_fox!quik_fox@quik_fox.tmi.twitch.tv PRIVMSG #rocketleague :damnnnnnn LUL
+
+2024-06-20_17:03:42 -- :trainerogge!trainerogge@trainerogge.tmi.twitch.tv PRIVMSG #rocketleague :"not a good team" damn
+
+2024-06-20_17:03:42 -- :cjohncol!cjohncol@cjohncol.tmi.twitch.tv PRIVMSG #rocketleague :@xenokill_ fair enough, thought it was a typo
+
+2024-06-20_17:03:42 -- :lazarusix!lazarusix@lazarusix.tmi.twitch.tv PRIVMSG #rocketleague :@devbom_rl well no one gives af abt u lol
+
+:teteuurl!teteuurl@teteuurl.tmi.twitch.tv PRIVMSG #rocketleague :HE DIDN'T SAY THAT
+
+:azerr1!azerr1@azerr1.tmi.twitch.tv PRIVMSG #rocketleague :XDDDDDD
+
+:ment786!ment786@ment786.tmi.twitch.tv PRIVMSG #rocketleague :did furia win?
+
+2024-06-20_17:03:42 -- :gabrielbelgium!gabrielbelgium@gabrielbelgium.tmi.twitch.tv PRIVMSG #rocketleague :@smileykiller2 yeah lol
+
+2024-06-20_17:03:43 -- :sx9killer!sx9killer@sx9killer.tmi.twitch.tv PRIVMSG #rocketleague :who did falcons lose to?
+
+2024-06-20_17:03:43 -- :rain101v!rain101v@rain101v.tmi.twitch.tv PRIVMSG #rocketleague :<3 <3 <3
+
+2024-06-20_17:03:43 -- :poisonjuggler72!poisonjuggler72@poisonjuggler72.tmi.twitch.tv PRIVMSG #rocketleague :LMAOOOOOOO
+
+2024-06-20_17:03:43 -- :brad_rychard!brad_rychard@brad_rychard.tmi.twitch.tv PRIVMSG #rocketleague :NOT VERY GOOD
+
+2024-06-20_17:03:44 -- :gmguest94!gmguest94@gmguest94.tmi.twitch.tv PRIVMSG #rocketleague :KEKW roasted KEKW
+
+2024-06-20_17:03:44 -- :goomes_sz!goomes_sz@goomes_sz.tmi.twitch.tv PRIVMSG #rocketleague :WRONG TRANSLATION LMAOOO
+
+2024-06-20_17:03:45 -- :vfasolarii!vfasolarii@vfasolarii.tmi.twitch.tv PRIVMSG #rocketleague :traduziu errado pai
+
+2024-06-20_17:03:45 -- :teteu_273!teteu_273@teteu_273.tmi.twitch.tv PRIVMSG #rocketleague :he translated it wrong btw
+
+2024-06-20_17:03:45 -- :leksikkk!leksikkk@leksikkk.tmi.twitch.tv PRIVMSG #rocketleague :@LucasAllan27 i try to make sure idiot
+
+2024-06-20_17:03:45 -- :daru___!daru___@daru___.tmi.twitch.tv PRIVMSG #rocketleague :TRANSLATED WRONG LMAOOOO
+
+2024-06-20_17:03:46 -- :officerdoppus!officerdoppus@officerdoppus.tmi.twitch.tv PRIVMSG #rocketleague :LUL
+
+2024-06-20_17:03:46 -- :coach_jaydub!coach_jaydub@coach_jaydub.tmi.twitch.tv PRIVMSG #rocketleague :that stache is the reverse hitler stache
+
+2024-06-20_17:03:46 -- :tchuubilu!tchuubilu@tchuubilu.tmi.twitch.tv PRIVMSG #rocketleague :he didnt say that
+
+2024-06-20_17:03:46 -- :thiinl!thiinl@thiinl.tmi.twitch.tv PRIVMSG #rocketleague :that is nothing like what he actually answered wtf
+
+2024-06-20_17:03:47 -- :tycthomas!tycthomas@tycthomas.tmi.twitch.tv PRIVMSG #rocketleague :AHAHAH
+
+2024-06-20_17:03:47 -- :munniezrl!munniezrl@munniezrl.tmi.twitch.tv PRIVMSG #rocketleague :NEM FALOU ISSO
+
+2024-06-20_17:03:48 -- :arpy_fps!arpy_fps@arpy_fps.tmi.twitch.tv PRIVMSG #rocketleague :HE DID NOT SAY THAT WTF
+
+2024-06-20_17:03:48 -- :dre4dzao!dre4dzao@dre4dzao.tmi.twitch.tv PRIVMSG #rocketleague ::rolling_on_the_floor_laughing::backhand_index_pointing_right::automobile::soccer_ball::rolling_on_the_floor_laughing::backhand_index_pointing_right::automobile::soccer_ball::rolling_on_the_floor_laughing::backhand_index_pointing_right::automobile::soccer_ball::rolling_on_the_floor_laughing::backhand_index_pointing_right::automobile::soccer_ball::rolling_on_the_floor_laughing::backhand_index_pointing_right::automobile::soccer_ball::rolling_on_the_floor_laughing::backhand_index_pointing_right::automobile::soccer_ball:
+
+2024-06-20_17:03:48 -- :jigawhats!jigawhats@jigawhats.tmi.twitch.tv PRIVMSG #rocketleague :wrong translation lol
+
+2024-06-20_17:03:49 -- :solars__world!solars__world@solars__world.tmi.twitch.tv PRIVMSG #rocketleague ::thumbs_up::call_me_hand:
+
+2024-06-20_17:03:50 -- :trocsson!trocsson@trocsson.tmi.twitch.tv PRIVMSG #rocketleague :WRONG TRANSLATION
+
+2024-06-20_17:06:26 -- :pkr_rl!pkr_rl@pkr_rl.tmi.twitch.tv PRIVMSG #rocketleague :@lagoupilofficiel vrai
+
+2024-06-20_17:06:27 -- :ammogustav!ammogustav@ammogustav.tmi.twitch.tv PRIVMSG #rocketleague :@magiczeus_ newsflash: on pro level there is gonna be bumps
+
+2024-06-20_17:06:29 -- :vxibnr!vxibnr@vxibnr.tmi.twitch.tv PRIVMSG #rocketleague :falcons better
+
+2024-06-20_17:06:33 -- :alexis1barra!alexis1barra@alexis1barra.tmi.twitch.tv PRIVMSG #rocketleague :@camcjb in Brazil a thin stache is popular
+
+2024-06-20_17:06:33 -- :officialhhh!officialhhh@officialhhh.tmi.twitch.tv PRIVMSG #rocketleague :epic/psyonix - give us ball skins already
+
+2024-06-20_17:06:36 -- :vxibnr!vxibnr@vxibnr.tmi.twitch.tv PRIVMSG #rocketleague :vamos falcons
+
+2024-06-20_17:08:48 -- :hhhhaste!hhhhaste@hhhhaste.tmi.twitch.tv PRIVMSG #rocketleague :EU KEKW
+
+2024-06-20_17:08:48 -- :patata_primex!patata_primex@patata_primex.tmi.twitch.tv PRIVMSG #rocketleague :what
+
+2024-06-20_17:08:49 -- :alvyon!alvyon@alvyon.tmi.twitch.tv PRIVMSG #rocketleague :@castle1510 oh ): thanks
+
+2024-06-20_17:08:50 -- :jt_atomic!jt_atomic@jt_atomic.tmi.twitch.tv PRIVMSG #rocketleague :drops*
+
+2024-06-20_17:08:50 -- :haikuq!haikuq@haikuq.tmi.twitch.tv PRIVMSG #rocketleague :@mat_fuent have a good one
+
+2024-06-20_17:08:50 -- :vneezy1!vneezy1@vneezy1.tmi.twitch.tv PRIVMSG #rocketleague :!bracket
+
+2024-06-20_17:08:51 -- :ramiro_20144!ramiro_20144@ramiro_20144.tmi.twitch.tv PRIVMSG #rocketleague :vitality Noob
+
+2024-06-20_17:08:52 -- :srsu_!srsu_@srsu_.tmi.twitch.tv PRIVMSG #rocketleague :vai champions
+
+2024-06-20_17:08:53 -- :aminedpro!aminedpro@aminedpro.tmi.twitch.tv PRIVMSG #rocketleague :Herc is much better as a commentator than kiwi just saying
+
+2024-06-20_17:08:58 -- :fabreasyrl!fabreasyrl@fabreasyrl.tmi.twitch.tv PRIVMSG #rocketleague :BRING BACK WILDCARD!
+
+2024-06-20_17:10:26 -- :boubourziporc!boubourziporc@boubourziporc.tmi.twitch.tv PRIVMSG #rocketleague :G2 had Power and OG Match ups, please
+
+2024-06-20_17:10:27 -- :realleppy!realleppy@realleppy.tmi.twitch.tv PRIVMSG #rocketleague :yes vitality and bds mickey bracket
+
+2024-06-20_17:10:32 -- :soullessg69!soullessg69@soullessg69.tmi.twitch.tv PRIVMSG #rocketleague :@Robomaster18 Falcons?
+
+2024-06-20_17:10:33 -- :pdridder!pdridder@pdridder.tmi.twitch.tv PRIVMSG #rocketleague :europe on top
+
+2024-06-20_22:31:46 -- :rafazava!rafazava@rafazava.tmi.twitch.tv PRIVMSG #caseoh_ :GG
+
+2024-06-20_22:31:46 -- :thefalloutnerd771923!thefalloutnerd771923@thefalloutnerd771923.tmi.twitch.tv PRIVMSG #caseoh_ :ofc
+
+2024-06-20_22:31:46 -- :aster_mothh!aster_mothh@aster_mothh.tmi.twitch.tv PRIVMSG #caseoh_ :GG GG
+
+2024-06-20_22:31:46 -- :scott_smiths_neck68!scott_smiths_neck68@scott_smiths_neck68.tmi.twitch.tv PRIVMSG #caseoh_ :Iï¿½m sure mom@is proud but who else ?
+
+:nvft_!nvft_@nvft_.tmi.twitch.tv PRIVMSG #caseoh_ :wait what
+
+2024-06-20_22:31:46 -- :creativename946!creativename946@creativename946.tmi.twitch.tv PRIVMSG #caseoh_ :JHGRT6YJGFDDGFHGNHJYU
+
+2024-06-20_22:31:47 -- :ryan200769!ryan200769@ryan200769.tmi.twitch.tv PRIVMSG #caseoh_ :THE HARDEST BOSS IS IN THERE
+
+:aaron78945!aaron78945@aaron78945.tmi.twitch.tv PRIVMSG #caseoh_ :Matter of fact, u have the mass of Jupiter
+
+2024-06-20_22:31:47 -- :fernandocarlomagno!fernandocarlomagno@fernandocarlomagno.tmi.twitch.tv PRIVMSG #caseoh_ :oh nah gg
+
+2024-06-20_22:31:47 -- :dingles_is_me!dingles_is_me@dingles_is_me.tmi.twitch.tv PRIVMSG #caseoh_ :How'd the lid stay on:skull::skull:
+
+2024-06-20_22:31:47 -- :christiancadle!christiancadle@christiancadle.tmi.twitch.tv PRIVMSG #caseoh_ :gg
+
+2024-06-20_22:31:47 -- :moogieeeeeeee!moogieeeeeeee@moogieeeeeeee.tmi.twitch.tv PRIVMSG #caseoh_ :done for gg
+
+2024-06-20_22:31:48 -- :vxidsp!vxidsp@vxidsp.tmi.twitch.tv PRIVMSG #caseoh_ :hell nah I wouldï¿½ve closed the game
+
+:solstice_moon111!solstice_moon111@solstice_moon111.tmi.twitch.tv PRIVMSG #caseoh_ :NAHHH
+
+2024-06-20_22:31:48 -- :eatcigs!eatcigs@eatcigs.tmi.twitch.tv PRIVMSG #caseoh_ :whoaaa
+
+2024-06-20_22:31:48 -- :dergstay!dergstay@dergstay.tmi.twitch.tv PRIVMSG #caseoh_ :Sigma Alta
+
+2024-06-20_22:31:48 -- :inokai_xlin!inokai_xlin@inokai_xlin.tmi.twitch.tv PRIVMSG #caseoh_ :ur botta get cooked
+
+2024-06-20_22:31:48 -- :22beholder!22beholder@22beholder.tmi.twitch.tv PRIVMSG #caseoh_ :ABOUT TO JOIN ANOTHER CULT IT LOOKS LIKE
+
+:xperio101!xperio101@xperio101.tmi.twitch.tv PRIVMSG #caseoh_ :gg
+
+2024-06-20_22:31:49 -- :bad_bone_2009!bad_bone_2009@bad_bone_2009.tmi.twitch.tv PRIVMSG #caseoh_ :Gg
+
+:x1vyr1x!x1vyr1x@x1vyr1x.tmi.twitch.tv PRIVMSG #caseoh_ :gg ominous music
+
+2024-06-20_22:31:49 -- :c0br45!c0br45@c0br45.tmi.twitch.tv PRIVMSG #caseoh_ :500000 dead in the realm
+
+:wheezychees3!wheezychees3@wheezychees3.tmi.twitch.tv PRIVMSG #caseoh_ :Thousands dead in Washington
+
+:caseohbootyhairsyum!caseohbootyhairsyum@caseohbootyhairsyum.tmi.twitch.tv PRIVMSG #caseoh_ :burger king
+
+2024-06-20_22:31:49 -- :nior_d!nior_d@nior_d.tmi.twitch.tv PRIVMSG #caseoh_ :GG
+
+:ambornt!ambornt@ambornt.tmi.twitch.tv PRIVMSG #caseoh_ :GG
+
+2024-06-20_22:31:49 -- :obiebongkenobi!obiebongkenobi@obiebongkenobi.tmi.twitch.tv PRIVMSG #caseoh_ :caseohLads
+
+:jad6780!jad6780@jad6780.tmi.twitch.tv PRIVMSG #caseoh_ :what
+
+2024-06-20_22:31:49 -- :tommyinsideit!tommyinsideit@tommyinsideit.tmi.twitch.tv PRIVMSG #caseoh_ :READ BRO
+
+2024-06-20_22:31:49 -- :cartererick_son!cartererick_son@cartererick_son.tmi.twitch.tv PRIVMSG #caseoh_ :gg
+
+2024-06-20_22:31:49 -- :kittykatsudon!kittykatsudon@kittykatsudon.tmi.twitch.tv PRIVMSG #caseoh_ :Caswy
+
+2024-06-20_22:31:50 -- :finnmanshinndig!finnmanshinndig@finnmanshinndig.tmi.twitch.tv PRIVMSG #caseoh_ :this area looks sickkkkkkkkk
+
+2024-06-20_22:31:50 -- :poisonous_b0nez!poisonous_b0nez@poisonous_b0nez.tmi.twitch.tv PRIVMSG #caseoh_ :WE ARE COOKED
+
+2024-06-20_22:31:50 -- :ghostboy63!ghostboy63@ghostboy63.tmi.twitch.tv PRIVMSG #caseoh_ :the music
+
+:nearwater1!nearwater1@nearwater1.tmi.twitch.tv PRIVMSG #caseoh_ :5000 dead in new york
+
+:skfokk!skfokk@skfokk.tmi.twitch.tv PRIVMSG #caseoh_ :big boooos
+
+2024-06-20_22:31:50 -- :caseohismypookie10!caseohismypookie10@caseohismypookie10.tmi.twitch.tv PRIVMSG #caseoh_ :WOW a full sized meal
+
+2024-06-20_22:31:50 -- :braypete12!braypete12@braypete12.tmi.twitch.tv PRIVMSG #caseoh_ :bruh
+
+2024-06-20_22:31:50 -- :fhc_u!fhc_u@fhc_u.tmi.twitch.tv PRIVMSG #caseoh_ :dragoooonnnnn
+
+2024-06-20_22:31:50 -- :cloudy1234567897!cloudy1234567897@cloudy1234567897.tmi.twitch.tv PRIVMSG #caseoh_ :GGS2024-06-21_18:56:11 -- :ryvolddosaccount!ryvolddosaccount@ryvolddosaccount.tmi.twitch.tv PRIVMSG #squishymuffinz :!bracket
+2024-06-21_18:59:29 -- :aryan2411!aryan2411@aryan2411.tmi.twitch.tv PRIVMSG #tarik :W GF
+2024-06-21_19:00:32 -- :sugarcoooki!sugarcoooki@sugarcoooki.tmi.twitch.tv PRIVMSG #tarik :@IcyVanilla123 SadgeCry
+2024-06-21_19:02:23 -- :moonlightultragreatsword!moonlightultragreatsword@moonlightultragreatsword.tmi.twitch.tv PRIVMSG #squishymuffinz :Squishy I am going to need you to shoot me a text message when my prime ends so I can relog and sub again. I barely log onto twitch.
+2024-06-22_17:35:24 -- :klauds4nt4n4!klauds4nt4n4@klauds4nt4n4.tmi.twitch.tv PRIVMSG #tarik :@tarik is lev washed or mibr putting a good fight?
+2024-06-22_17:44:36 -- :weirdball!weirdball@weirdball.tmi.twitch.tv PRIVMSG #tarik :FirstTimeBricked
+2024-06-22_17:49:06 -- :felix_kekw!felix_kekw@felix_kekw.tmi.twitch.tv PRIVMSG #tarik :Im a ISO main and im 17-163 in iso ult so I get it!
+2024-06-22_17:54:45 -- :q_een1k!q_een1k@q_een1k.tmi.twitch.tv PRIVMSG #tarik :I love the way Tarik makes me feel seen and valued. His genuine interest in my thoughts, dreams, and even my worries makes me feel incredibly lucky. There's a warmth in his presence, a comfort in his embrace, that reassures me everything will be alright. His laughter is like music to my ears, and his joy becomes my own.
