@@ -23,7 +23,7 @@ async def get_response(message: Message, user_input: str):
         else:
             return nba_scraper.get_nba_score()
     elif user_input.startswith('chat'):
-        return chat_request.get_chat_response(user_input[5:])
+        return chat_request.generate(user_input[5:])
     elif user_input.startswith('weather'):
         return await weather.get_weather(message, user_input[8:])
     elif user_input.startswith('twitch'):
