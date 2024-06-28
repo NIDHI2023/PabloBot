@@ -1,5 +1,10 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from dotenv import load_dotenv
 import torch
+import os
+
+load_dotenv()
+hf_token = os.getenv("HF-KEY")
 
 def complete_sentence(text):
     end_punctuations = {'.', '!', '?'}
@@ -8,25 +13,25 @@ def complete_sentence(text):
             return text[:i+1]
     return text
 
-tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it")
+tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b-it", use_auth_token=os.getenv("HF_API_TOKEN"))
 model = AutoModelForCausalLM.from_pretrained(
     "google/gemma-2b-it",
-    torch_dtype=torch.bfloat16
+    torch_dtype=torch.bfloat16,
+    token=hf_token
 )
-
 
 def generate(input: str) -> str:
     input_ids = tokenizer(input, return_tensors="pt", padding=True, truncation=True, max_length=20).input_ids
     
     outputs = model.generate(
         input_ids=input_ids,
-        max_new_tokens=50,  # Adjust as needed
-        num_beams=5,  # Number of beams for beam search
-        early_stopping=True,  # Stop early if all beams finished
-        no_repeat_ngram_size=2,  # Prevent repeating n-grams
-        do_sample=True,  # Enable sampling
-        temperature=0.7,  # Sampling temperature
-        top_p=0.9,  # Nucleus sampling
+        max_new_tokens=50, 
+        num_beams=5,  
+        early_stopping=True,  
+        no_repeat_ngram_size=2,  
+        do_sample=True,  
+        temperature=0.7,  
+        top_p=0.9,  
     )
 
     # Decode and print the output

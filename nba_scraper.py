@@ -10,16 +10,13 @@ from bs4 import BeautifulSoup
 # Chrome options
 chrome_options = Options()
 chrome_options.add_argument("--headless") 
-chrome_options.add_argument("--disable-dev-shm-usage")  # Overcome limited resource problems
-chrome_options.add_argument("--log-level=3")  # Suppress logs
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument("--log-level=3")  
 
 caps = DesiredCapabilities.CHROME
 caps['goog:loggingPrefs'] = {'browser': 'OFF', 'performance': 'OFF'}
 driver = webdriver.Chrome(options=chrome_options)
 
-
-# URL to scrape
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
 curr_date = time.strftime('%Y%m%d')
 
 def get_nba_score(date = curr_date) -> str:
@@ -49,7 +46,7 @@ def get_nba_score(date = curr_date) -> str:
     
 
     if len(teams) == 0:
-        return 'No games today'
+        return 'No games found for this date'
     elif len(scores) == 0:
         game_time = soup.find_all('div', class_='ScoreCell__Time ScoreboardScoreCell__Time h9 clr-gray-03')
         network = soup.find_all('div', class_='ScoreCell__NetworkItem')
@@ -64,10 +61,10 @@ def get_nba_score(date = curr_date) -> str:
         
         return embed
     else:
-        if (len(completed) == 1 and completed[0].text == 'Final'):
-            embed = discord.Embed(title=f'{completed[0].text}: NBA Scores', color=0x00ff00)
-        elif (len(progress) == 1 and progress[0].text != 'Final'):
-            embed = discord.Embed(title=f'{progress[0].text}: NBA Scores', color=0xff0000)
+        if (len(completed) >= 1 and completed[0].text == 'Final'):
+            embed = discord.Embed(title=f'{completed[0].text}: NBA Scores', color=0xff0000)
+        elif (len(progress) >= 1 and progress[0].text != 'Final'):
+            embed = discord.Embed(title=f'{progress[0].text}: NBA Scores', color=0x00ff00)
         for i in range(len(teams) // 2):
             if game_type:
                 matchup = game_type[0].text.split(',')
