@@ -90,6 +90,9 @@ def data_analysis () :
     df['neu'] = [get_sentiment("neu", mes) for mes in df['message']]
     df['neg'] = [get_sentiment("neg", mes) for mes in df['message']]
     df['tot'] = [get_sentiment("tot", mes) for mes in df['message']]
+    df['label'] = 0
+    df.loc[df['tot'] > 0.2, 'label'] = 1
+    df.loc[df['tot'] < -0.2, 'label'] = -1
     return df
 
 
