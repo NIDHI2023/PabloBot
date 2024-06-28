@@ -17,7 +17,7 @@
 # model = AutoModelForCausalLM.from_pretrained(
 #     "google/gemma-2b-it",
 #     torch_dtype=torch.bfloat16,
-#     use_auth_token=hf_token
+#     token=hf_token
 # )
 
 # def generate(input: str) -> str:
@@ -34,9 +34,9 @@
 #         top_p=0.9,  
 #     )
 
-#     # Decode and print the output
-#     generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
-#     generated_text = generated_text.replace(input, '').replace('\n', ' ').replace('\r', ' ')
-#     final_text = complete_sentence(generated_text)
+# #     # Decode and print the output
+# #     generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+# #     generated_text = generated_text.replace(input, '').replace('\n', ' ').replace('\r', ' ')
+# #     final_text = complete_sentence(generated_text)
     
 #     return final_text.strip()

@@ -47,14 +47,14 @@ async def send_response(message: Message, user_message: str) -> None:
     try:
         if user_message[0] == '?' or user_message[0] == '!':
             loading_view = LoadingView()
-            load = await message.channel.send(view = loading_view)
+            load = await message.channel.send(view=loading_view)
             if user_message[0] == '?':
                 user_message = user_message[1:]
                 response = await get_response(message, user_message)
                 await load.delete()
                 
                 if user_message == "news":
-                    await message.author.send(view = NewsButtons())
+                    await message.author.send(view=NewsButtons())
                 elif user_message == "weather":
                     await message.author.send(embed=response)
                 else:
@@ -70,7 +70,7 @@ async def send_response(message: Message, user_message: str) -> None:
                     else:
                         await message.channel.send(response)
                 elif user_message == "news":
-                    await message.channel.send(view = NewsButtons())
+                    await message.channel.send(view=NewsButtons())
                 elif user_message.startswith("weather"):
                     await message.channel.send(embed=response)
                 elif user_message.startswith("twitch"):
