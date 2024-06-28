@@ -13,6 +13,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import matplotlib.pyplot as plt
+import discord
 
 #credit: https://www.learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/
 
@@ -135,10 +136,7 @@ async def get_message(streamer: str) -> str:
 
     while time.time() < end_time:
         try:
-            print("here??")
-
             recv_msg = await asyncio.wait_for(reader.read(2048), timeout = 5)
-            print("now here??")
 
         except asyncio.TimeoutError: 
             isLive = False
@@ -190,15 +188,15 @@ async def get_message(streamer: str) -> str:
     #df_user : pd.DataFrame = df_user.loc[len(df['username']) < 50]
     print(f"yoinnk {df_user.shape}")
     print(df_user)
-    df_user : pd.DataFrame = df_user.sort_values(by='channel', ascending=False).head(10)
-    print(df_user)
-    #df_user.plot.bar(x='username',y='channel', color='blue')
-    df_user.plot.bar(y='message')
+    df_user_top : pd.DataFrame = df_user.sort_values(by='channel', ascending=False).head(10)
+    print(df_user_top)
+    df_user_top.plot.bar(y='message',legend=False)
+    plt.xticks(rotation=55, ha='right')
 
     # Setting plot labels
     plt.xlabel('Username')
     plt.ylabel('Message Count')
-    plt.title('Top 10 Users by Message Count')
-    plt.savefig("plot.png")
+    plt.title('Top Users by Message Count')
+    plt.savefig("plot.png", bbox_inches='tight', pad_inches=0.4)
 
-    return f"# Streamer: {streamer}\nusers stored: {df2.shape[0]}\nAvg total sentiment: {df2['tot'].mean():.4f}\nAvg pos sentiment: {df2['pos'].mean():.4f}\nAvg neutral sentiment: {df2['neu'].mean():.4f}\nAvg negative sentiment: {df2['neg'].mean():.4f} "
+    return discord.Embed(title=f"# Streamer: {streamer}", description=f"users stored: {df_user.shape[0]}\nAvg total sentiment: {df2['tot'].mean():.4f}\nAvg pos sentiment: {df2['pos'].mean():.4f}\nAvg neutral sentiment: {df2['neu'].mean():.4f}\nAvg negative sentiment: {df2['neg'].mean():.4f}", color= 666531)

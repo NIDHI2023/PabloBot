@@ -74,7 +74,10 @@ async def send_response(message: Message, user_message: str) -> None:
                 elif user_message.startswith("weather"):
                     await message.channel.send(embed=response)
                 elif user_message.startswith("twitch"):
-                    await message.channel.send(content=response,file=discord.File('test.jpg'))
+                    if type(response) == discord.Embed:
+                        await message.channel.send(embed=response, file=discord.File('plot.png'))
+                    else:
+                        await message.channel.send(content=response,file=discord.File('test.jpg'))
                 #can send reaction images based on emotion
                 else:
                     await message.channel.send(response)
