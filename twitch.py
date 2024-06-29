@@ -58,6 +58,31 @@ def preprocess_text(text):
     lemm_tokens = [lemmatizer.lemmatize(token) for token in cleaned_tokens]
     return ' '.join(lemm_tokens)
 
+def get_pos_words(df: pd.DataFrame):
+    pos_lines = list(df[df.label == 1].message)
+    tokens = []
+    for line in pos_lines:
+        toks = word_tokenize(line)
+        tokens.extend(toks)
+    pos_freq = nltk.FreqDist(tokens)
+    words = pos_freq.most_common(10)
+    ans = "Top positive words:\n"
+    for word in words:
+        ans += f"- {word[0]}\n"
+    return ans
+def get_neg_words(df: pd.DataFrame):
+    neg_lines = list(df[df.label == -1].message)
+    tokens = []
+    for line in neg_lines:
+        toks = word_tokenize(line)
+        tokens.extend(toks)
+    neg_freq = nltk.FreqDist(tokens)
+    words = neg_freq.most_common(10)
+    ans = "Top negative words:\n"
+    for word in words:
+        ans += f"- {word[0]}\n"
+    return ans
+
 def get_sentiment (sent, text) :
     #nltk.download('all')
     sia = SIA()
@@ -166,26 +191,15 @@ async def get_message(streamer: str) -> str:
                 file.flush()
                 logging.info(msg)
                 response += msg
-                # time_logged = msg.split()[0].strip()
-
-                # time_logged = datetime.strptime(time_logged, '%Y-%m-%d_%H:%M:%S')
-                # username_message = msg.split('—')[1:]
-                # username_message = '—'.join(username_message).strip()
-
-                # print(f"user time: {time_logged}")
-                # username, channel, message = re.search(':(.*)\!.*@.*\.tmi\.twitch\.tv PRIVMSG #(.*) :(.*)', username_message).groups()
-
-                # print(f"Channel: {channel} \nUsername: {username} \nMessage: {message}")
         file.close()
         writer.close()
         await writer.wait_closed()
     df = data_analysis()
     print(df)
-    # return df['message'].iloc(df.last_valid_index())
     df2 = df.loc[df['channel'] == streamer.lower()]
     print("take two")
     print(df2)
-    #want bar char of top ten users and how many messages they have sent (excluding bots)
+    print("haha")
 
     df_user = df2.groupby(['username']).count()
     #df_user : pd.DataFrame = df_user.loc[len(df['username']) < 50]
@@ -202,4 +216,4 @@ async def get_message(streamer: str) -> str:
     plt.title('Top Users by Message Count')
     plt.savefig("plot.png", bbox_inches='tight', pad_inches=0.4)
 
-    return discord.Embed(title=f"# Streamer: {streamer}", description=f"users stored: {df_user.shape[0]}\nAvg total sentiment: {df2['tot'].mean():.4f}\nAvg pos sentiment: {df2['pos'].mean():.4f}\nAvg neutral sentiment: {df2['neu'].mean():.4f}\nAvg negative sentiment: {df2['neg'].mean():.4f}", color= 666531)
+    return discord.Embed(title=f"Streamer: {streamer}", description=f"users stored: {df_user.shape[0]}\nAvg total sentiment (out of 1): {df2['tot'].mean():.2f}\nAvg pos: {df2['pos'].mean():.2f}\nAvg neutral: {df2['neu'].mean():.2f}\nAvg neg: {df2['neg'].mean():.2f}\n{get_pos_words(df2)}\n{get_neg_words(df2)}", color= 666531)
